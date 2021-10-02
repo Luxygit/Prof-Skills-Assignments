@@ -1,0 +1,22 @@
+{
+  "People": [
+    {
+      "id": 1,
+      "firstName": "Flareon",
+      "lastName": "Fire",
+      "email": "flamethrower@pokemail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Umbreon",
+      "lastName": "Dark",
+      "email": "shadowball@pokemail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "vaporeon",
+      "lastName": "Water",
+      "email": "waterfall@pokemail.com"
+    }
+  ]
+}
